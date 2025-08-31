@@ -91,3 +91,11 @@ javac -d bin -cp "lib/*" src/HospitalManagementSystem/*.java
 Run the project:
 
 java -cp "bin;lib/*" HospitalManagementSystem.HospitalManagementSystem
+
+Author
+
+Solagam Chandra Sekhar
+
+GitHub: github.com/Sekhariam
+
+LinkedIn: www.linkedin.com/in/chandra-sekhar-iam
